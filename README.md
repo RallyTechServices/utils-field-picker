@@ -1,5 +1,6 @@
 # utils-field-picker
 
+![This is a screenshot](https://github.com/RallyTechServices/utils-field-picker/raw/master/screenshot.png)
 ## Example usage
 To use the control on a page:
 ```
