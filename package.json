@@ -1,6 +1,6 @@
 {
   "name": "@agile-central-technical-services/utils-field-picker",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A field picker control for use with stores or grids",
   "main": "index.js",
   "scripts": {
