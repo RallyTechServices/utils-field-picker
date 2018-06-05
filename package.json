@@ -1,0 +1,28 @@
+{
+  "name": "@agile-central-technical-services/utils-field-picker",
+  "version": "1.0.0",
+  "description": "A field picker control for use with stores or grids",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RallyTechServices/utils-field-picker.git"
+  },
+  "keywords": [
+    "rally",
+    "agile",
+    "central",
+    "field",
+    "picker",
+    "technical",
+    "services"
+  ],
+  "author": "Tyr Johanson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RallyTechServices/utils-field-picker/issues"
+  },
+  "homepage": "https://github.com/RallyTechServices/utils-field-picker#readme"
+}
