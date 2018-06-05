@@ -4,7 +4,8 @@
   "description": "A field picker control for use with stores or grids",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postversion": "git push && git push --tags"
   },
   "repository": {
     "type": "git",
